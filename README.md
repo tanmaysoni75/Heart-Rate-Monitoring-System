@@ -1,5 +1,4 @@
 # Heart-Rate-Monitoring-System
-# Biopotential ECG Signal Acquisition System with Edge-Level Exception Handling
 
 A high-resolution biomedical instrumentation system designed to capture, process, and stream real-time single-lead electrocardiogram (ECG) data. The system utilizes an AD8232 analog front-end integrated with an Arduino Uno R3 (ATmega328P) to handle hardware signal conditioning, baseline drift rejection, and active lead-off error detection at the edge. 
 
